@@ -1,0 +1,11 @@
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\Application.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\Administration.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\CitySchema.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\Serialization.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\Templating.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\Routing.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\UsersSchema.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\Monitoring.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\Sockets.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\HTTP.kt
+C:\Users\klboo\IdeaProjects\ktor-project\src\main\kotlin\org\krysclick\plugins\Databases.kt
